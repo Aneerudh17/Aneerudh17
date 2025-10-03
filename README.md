@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Aneerudh)](https://git.io/typing-svg)
 
-<!--
-**Aneerudh17/Aneerudh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+-  Third year CS Major.
+-  Currently building **full-stack projects** (React.js + Next.js + Prisma + Supabase)   
+-  Focusing on **DSA grind** → LeetCode + Striver/Neetcode sheets. Planning to release DSA sheets later.   
+-  Working on **multiple open-source projects** and contributing to a few **startups**   
+-  Open to **collab** on projects, hacks, or side-quests. 
+-  Actively clearing **CTF rooms on TryHackMe**   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Framworks & Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Anime.js-FF355E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF0092?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+
+---
+
+## GitHub Activity  
+[![Aneerudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aneerudh17&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
