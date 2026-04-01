@@ -4,10 +4,10 @@
 ## About Me  
 -  Third year CS Major.
 -  Currently building **full-stack projects** (React.js + Next.js + Prisma + Supabase)   
--  Focusing on **DSA grind** → LeetCode + Striver/Neetcode sheets. Planning to release DSA sheets later.   
--  Working on **multiple open-source projects** and contributing to a few **startups**   
+-  Focusing on **DSA** → LeetCode + Striver/Neetcode sheets.  
+-  Working on **open-source projects** and contributing to a few **startups**   
 -  Open to **collab** on projects, hacks, or side-quests. 
--  Actively clearing **CTF rooms on TryHackMe** as a hobby (Not career Oriented)   
+-  Actively clearing **CTF rooms on TryHackMe** as a hobby   
 
 ---
 
